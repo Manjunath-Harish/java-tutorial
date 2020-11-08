@@ -1,0 +1,19 @@
+
+j
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(¤ÿ½8¦Óª¥Ï.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(‹¼æıÿÿÿÿ8¦Óª¥Ï.
+m
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(˜ëÿà8¦Óª¥Ï.
+S
+java:S1854"6Remove this useless assignment to local variable "s2".(ô‚¦”8¦Óª¥Ï.
+k
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(òå«8¦Óª¥Ï.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ú´Ëüÿÿÿÿ8¦Óª¥Ï.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(äéÈ‰ùÿÿÿÿ8ë‡¨¥Ï.
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(é³Ö¶8üç³¥Ï.
+Z
+java:S1197"8Move the array designator from the variable to the type.(º ìıÿÿÿÿ8¦Óª¥Ï.
+D
+java:S1481"'Remove this unused "s2" local variable.(ô‚¦”8¦Óª¥Ï.
+q
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8¦Óª¥Ï.

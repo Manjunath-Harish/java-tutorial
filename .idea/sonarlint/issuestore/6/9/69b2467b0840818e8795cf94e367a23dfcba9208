@@ -1,0 +1,21 @@
+
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ıÜv8ˆ«›äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8º÷ŸäÁ.
+‰
+java:S1192"lDefine a constant instead of duplicating this literal "-------------------------------------------" 3 times.(ËŞõŒ8“²¡äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8“²¡äÁ.
+s
+java:S1192"VDefine a constant instead of duplicating this literal "---------------------" 3 times.(¨³Ë8™©¢äÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éàüÿÿÿÿ8¹šäÁ.
+R
+java:S2209
+"5Change this instance-reference to a static reference.(Ñ§‹8á¼·äÁ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş–‡˜şÿÿÿÿ8Çº™äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ËŞõŒ8ùş¶äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë8«Û¡äÁ.
+W
+java:S2209"5Change this instance-reference to a static reference.(©ú³„ıÿÿÿÿ8ùş¶äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë8§¢äÁ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¨³Ë8™©¢äÁ.
+W
+java:S2209"5Change this instance-reference to a static reference.(ßÈ õşÿÿÿÿ8ÔÜ·äÁ.

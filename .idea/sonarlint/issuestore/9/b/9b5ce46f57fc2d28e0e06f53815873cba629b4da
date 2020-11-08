@@ -1,0 +1,15 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ò¸Ï8·ª¿¹È.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ùÿ‘Àÿÿÿÿÿ8¹«‰òÇ.
+_
+java:S2184("BCast one of the operands of this addition operation to a "double".(Ï˜ï«8‘Ş¾È.
+_
+java:S2184+"BCast one of the operands of this addition operation to a "double".(¥Í¿·8‘Ş¾È.
+t
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 58 to the 15 allowed.(šŞÉ“øÿÿÿÿ8·ª¿¹È.
+H
+java:S2201r"+The return value of "valueOf" must be used.(ñ“‰8›Éî—É.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(éÒ¹¼8·ª¿¹È.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Çäë8·ª¿¹È.
+F
+java:S5413.")Verify that "remove()" is used correctly.(‰¡†Ş8·ª¿¹È.
