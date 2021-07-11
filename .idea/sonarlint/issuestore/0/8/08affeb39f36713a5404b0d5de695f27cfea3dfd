@@ -1,26 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(€Þˆ€
-S	java:S106"9Replace this use of System.out or System.err by a logger.(×¨Ð®üÿÿÿÿ
-O
-java:S2201"4The return value of "equalsIgnoreCase" must be used.(öæ»’þÿÿÿÿ
-Y
-java:S3518"CMake sure this expression can't be zero before doing this division.(ŠÒ‡ý
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ü–Šæþÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(„ÿîðûÿÿÿÿ
-<
-java:S1481"&Remove this unused "a" local variable.(ŠÒ‡ý
-V	java:S125"<This block of commented-out lines of code should be removed.(¾¾Í†ùÿÿÿÿ
-D
-java:S1144
-".Remove this unused private "divByZero" method.(˜ÊÎÐ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ä»¬
-N	java:S106"9Replace this use of System.out or System.err by a logger.(î“
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Âëë¦úÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Ô©Ïœ
-^
-java:S2166"CRename this class to remove "Exception" or correct its inheritance.(Áû’óÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‘“ïûÿÿÿÿ
-Z
-java:S2259"?A "NullPointerException" could be thrown; "b" is nullable here.(öæ»’þÿÿÿÿ
-K
-java:S1854"5Remove this useless assignment to local variable "a".(ŠÒ‡ý

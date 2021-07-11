@@ -1,9 +1,0 @@
-
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8¹Ê¬¤Ï.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(žÊÎ¤ùÿÿÿÿ8üÈ±¤Ï.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(«¹¤Ú8­¦²¤Ï.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éí÷„ùÿÿÿÿ8³ô¬¤Ï.
-m
-java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(«Þó°8Žø™¤Ï.
-l
-java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(´¢Žß8Œ“©¤Ï.
